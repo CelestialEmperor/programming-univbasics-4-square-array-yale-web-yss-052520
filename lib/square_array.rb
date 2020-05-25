@@ -3,6 +3,6 @@ number = 5
 
 def square_array(numbers)
   while count <= number do
-    puts
+    puts count ** 2
   end
 end

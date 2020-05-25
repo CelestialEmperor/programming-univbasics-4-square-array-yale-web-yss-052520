@@ -2,6 +2,7 @@ count = 0
 number = 5
 
 def square_array(numbers)
-  while do
+  while count <= number do
+    puts
   end
 end

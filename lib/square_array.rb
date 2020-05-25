@@ -1,3 +1,6 @@
-def square_array(array)
-  # your code here
+numbers = [1,10,100]
+
+def square_array(numbers)
+  while do
+  end
 end
